@@ -1,0 +1,40 @@
+body { 
+    margin: 0;
+padding: 0;
+background: rgb(0, 0, 0);
+color: white;
+display: flex;
+align-items: center;
+flex-direction: column;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Edad-p{
+    font-size:25px ;
+}
+
+h1{
+    color: rgb(230, 11, 11);
+    text-decoration: underline;
+    text-decoration-style: solid
+}
+
+.fa-birthday-cake {
+    position: relative;
+    top: 15px;
+  }
+  
+  body {
+    background-image: linear-gradient(to bottom right, rgb(7, 7, 7), rgb(204, 69, 69));
+  }
+
+  .box {
+    width: 200px; /* Ancho de la caja */
+    height: 150px; /* Alto de la caja */
+    background-color: #030303; /* Color de fondo de la caja */
+    border: 1px solid #000000; /* Borde de la caja */
+    padding: 20px; /* Espacio interno dentro de la caja */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra de la caja */
+    /* Otros estilos personalizados aquí */
+  }
